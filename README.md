@@ -65,7 +65,7 @@ I am a meticulous and detail-oriented professional transitioning into software e
   - **Collaboration with Frontend Developers**: Worked closely with the frontend team to integrate the backend APIs, ensuring a seamless data flow and providing support for user interaction and experience.
 
 - **Proyek Screenshot**:
-  - ![Proyek Web](https://example.com/screenshot.png)
+  - ![Proyek Web](APIScreenshot.png)
 
 ---
 
