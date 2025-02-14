@@ -1,11 +1,11 @@
 # Bima Rahman
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio) <!-- Ganti dengan gambar banner pribadi kamu -->
+ <!-- Ganti dengan gambar banner pribadi kamu -->
 
 ## 👋 Hi there, I'm Bima
 
 ### About Me
-I am a meticulous and detail-oriented professional transitioning into software engineering. My background in administration has equipped me with strong organizational skills and an emphasis on accuracy in high-pressure environments. I have developed technical skills in Python, SQL, JavaScript, and have worked with frameworks like React and Flask for application development.
+I am a meticulous and detail-oriented professional transitioning into software engineering. My background in administration has equipped me with strong organizational skills and an emphasis on accuracy in high-pressure environments. Through the Fullstack Software Engineering bootcamp program, I have developed technical skills in Python, HTML,CSS, SQL, JavaScript, and have worked with frameworks like React and Flask for application development. In addition, I have gained experience with version control through Git and developed RESTful APIs. For my final project, I focused on designing database structure and developing RESTful APIs to facilitate communication between the frontend and backend. The combination of these technical skills and soft skills enables me to develop software with accurate coding practices, allowing me to contribute significantly to projects and support the team in achieving their goals.
 
 ### 💼 Skills
 
@@ -13,12 +13,17 @@ I am a meticulous and detail-oriented professional transitioning into software e
   - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  - SQL ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  - HTML ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - CSS ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - Node.js ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 - **Frameworks/Libraries**:
   - React ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   - Flask ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   - Next.js ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+- **Database Query Languages**:
+  - SQL ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - **Databases**:
   - MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +32,11 @@ I am a meticulous and detail-oriented professional transitioning into software e
 
 - **Tools**:
   - Git ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - GitHub ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   - Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  - Vercel ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  - Hostinger ![Hostinger](https://img.shields.io/badge/Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white)
+
 
 - **Soft Skills**:
   - Critical thinking
@@ -55,6 +64,9 @@ I am a meticulous and detail-oriented professional transitioning into software e
   - **Developed RESTful APIs**: Implemented RESTful APIs to facilitate communication between the frontend and backend of the e-commerce platform, ensuring smooth data exchange and enhancing system performance.
   - **Collaboration with Frontend Developers**: Worked closely with the frontend team to integrate the backend APIs, ensuring a seamless data flow and providing support for user interaction and experience.
 
+- **Proyek Screenshot**:
+  - ![Proyek Web](https://example.com/screenshot.png)
+
 ---
 
 ### 📊 GitHub Stats
@@ -76,6 +88,7 @@ Thanks for visiting my profile! 😄
 
 
 <!--
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Portfolio)
 **b1m4r/b1m4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
