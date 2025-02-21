@@ -69,6 +69,18 @@ I am a meticulous and detail-oriented professional transitioning into software e
 
 ---
 
+### 💼 Work Experience
+
+#### Administrative Staff, Perum Jasa Tirta II
+**November 2021 – August 2023**
+
+- Organized and maintained filing systems for essential documents, significantly enhancing efficiency and ensuring teams had timely access to critical information.
+- Prepared draft letters for management review, contributing to more efficient internal and external communication, and facilitating quicker decision-making processes.
+- Documented meeting minutes, facilitating effective communication and enhancing accountability within teams.
+- Organized logistical arrangements for meetings, managing schedules and resources, which consistently led to enhanced participation and engagement among team members, ultimately fostering a more collaborative environment.
+
+---
+
 ### 📊 GitHub Stats
 
 ![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1m4r&show_icons=true&theme=radical)
